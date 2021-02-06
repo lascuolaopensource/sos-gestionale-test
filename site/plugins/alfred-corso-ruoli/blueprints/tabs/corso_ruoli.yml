@@ -1,0 +1,15 @@
+label: Ruoli
+
+fields:
+  #
+  docenti:
+    label: Docenti
+    extends: fields/utente_select
+  #
+  tutor:
+    label: Tutor
+    extends: fields/utente_select
+  #
+  coordinatori:
+    label: Coordinatori
+    extends: fields/utente_select

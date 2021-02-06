@@ -1,0 +1,4 @@
+type: pages
+query: site.find('utenti').children
+info: "{{ page.nascita_data }}"
+subpages: false

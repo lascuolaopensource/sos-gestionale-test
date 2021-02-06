@@ -1,0 +1,53 @@
+Title: Giogianni Alletemaolo
+
+----
+
+Socio: true
+
+----
+
+Cf: GDMMED20E12O932F
+
+----
+
+Piva: 
+
+----
+
+Nascita-data: 2021-02-16
+
+----
+
+Nascita-comune: Pola
+
+----
+
+Nascita-provincia: AD
+
+----
+
+Residenza-comune: Darionia
+
+----
+
+Residenza-provincia: AD
+
+----
+
+Residenza-via: Melli
+
+----
+
+Residenza-numero: 32
+
+----
+
+Email: ds@maol.com
+
+----
+
+Pec: 
+
+----
+
+Autoid: dj7mb8b9

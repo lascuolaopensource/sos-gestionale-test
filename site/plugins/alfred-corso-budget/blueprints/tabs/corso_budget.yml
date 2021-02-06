@@ -1,0 +1,34 @@
+label: Budget
+
+fields:
+  #
+  budget:
+    label: Budget
+    type: structure
+    fields:
+      #
+      docente:
+        label: Docente
+        type: select
+        options: query
+        query: page.docenti.toPages.add(page.tutor.toPages)
+      #
+      ore:
+        label: Ore
+        type: number
+      #
+      costo_orario:
+        label: Costo orario
+        type: number
+      #
+      viaggio_andata:
+        label: Viaggio – Andata
+        type: number
+      #
+      viaggio_ritorno:
+        label: Viaggio – Ritorno
+        type: number
+      #
+      numero_giorni:
+        label: Numero giorni
+        type: number

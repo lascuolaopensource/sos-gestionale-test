@@ -1,0 +1,53 @@
+Title: Mario Merolo
+
+----
+
+Socio: true
+
+----
+
+Cf: MRMMRL28E91H819M
+
+----
+
+Piva: 1234567890
+
+----
+
+Nascita-data: 2021-02-18
+
+----
+
+Nascita-comune: Napoli
+
+----
+
+Nascita-provincia: MA
+
+----
+
+Residenza-comune: Mamoli
+
+----
+
+Residenza-provincia: NE
+
+----
+
+Residenza-via: Condi
+
+----
+
+Residenza-numero: 12
+
+----
+
+Email: as@mmeee.com
+
+----
+
+Pec: 
+
+----
+
+Autoid: b77tldpx
