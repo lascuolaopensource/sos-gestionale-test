@@ -1,0 +1,10 @@
+title: Utenti
+
+sections:
+  #
+  pages:
+    headline: Pages
+    type: pages
+    templates: utente
+    info: "Socio: {{ page.socio }} | Nascita: {{ page.nascita_data }}"
+    sortBy: socio desc

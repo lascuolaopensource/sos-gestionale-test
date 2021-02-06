@@ -1,0 +1,53 @@
+Title: Mario Merola
+
+----
+
+Socio: false
+
+----
+
+Cf: MREMRL29E03H729E
+
+----
+
+Piva: 06575921215
+
+----
+
+Nascita-data: 2021-02-23
+
+----
+
+Nascita-comune: Mola
+
+----
+
+Nascita-provincia: BA
+
+----
+
+Residenza-comune: Sant'Elia
+
+----
+
+Residenza-provincia: ER
+
+----
+
+Residenza-via: Muffolo
+
+----
+
+Residenza-numero: 32
+
+----
+
+Email: dw@dea.com
+
+----
+
+Pec: dw@dea.pec.com
+
+----
+
+Autoid: oxl74z4o

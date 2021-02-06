@@ -1,0 +1,118 @@
+title: Utente
+
+sections:
+  #
+  socio:
+    headline: Socio
+    type: fields
+    fields:
+      #
+      socio:
+        label: Socio?
+        type: toggle
+        text:
+          - "Non socio"
+          - "Socio"
+      #
+      socio_separator:
+        type: line
+  #
+  identificativi:
+    headline: Identificativi
+    type: fields
+    fields:
+      #
+      identificativi_headline:
+        label: Identificativi
+        type: headline
+      #
+      cf:
+        label: Codice fiscale
+        type: text
+      #
+      piva:
+        label: Partita IVA
+        type: text
+      #
+      identificativi_separator:
+        type: line
+  #
+  nascita:
+    headline: Nascita
+    type: fields
+    fields:
+      #
+      nascita_headline:
+        label: Data e luogo di nascita
+        type: headline
+      #
+      nascita_data:
+        label: Data
+        type: date
+      #
+      nascita_comune:
+        label: Comune
+        type: text
+      #
+      nascita_provincia:
+        label: Provincia (sigla)
+        type: text
+      #
+      nascita_separator:
+        type: line
+  #
+  residenza:
+    headline: Residenza
+    type: fields
+    fields:
+      #
+      residenza_headline:
+        label: Residenza
+        type: headline
+      #
+      residenza_comune:
+        label: Comune
+        type: text
+      #
+      residenza_provincia:
+        label: Provincia (sigla)
+        type: text
+      #
+      residenza_via:
+        label: Via
+        type: text
+      #
+      residenza_numero:
+        label: Numero
+        type: text
+      #
+      residenza_separator:
+        type: line
+  #
+  contatti:
+    headline: Contatti
+    type: fields
+    fields:
+      #
+      contatti_headline:
+        label: Contatti
+        type: headline
+      #
+      email:
+        label: Email
+        type: email
+      #
+      pec:
+        label: PEC
+        type: email
+      #
+      contatti_separator:
+        type: line
+  #
+  autoid:
+    headline: AutoID
+    type: fields
+    fields:
+      #
+      autoid:
+        type: autoid
