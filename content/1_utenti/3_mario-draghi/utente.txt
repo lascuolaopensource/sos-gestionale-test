@@ -1,0 +1,53 @@
+Title: Mario Draghi
+
+----
+
+Socio: true
+
+----
+
+Cf: MRDRHI233O01H382E
+
+----
+
+Piva: 
+
+----
+
+Nascita-data: 2021-02-02
+
+----
+
+Nascita-comune: Molo
+
+----
+
+Nascita-provincia: ER
+
+----
+
+Residenza-comune: Ello
+
+----
+
+Residenza-provincia: ER
+
+----
+
+Residenza-via: Moffoli
+
+----
+
+Residenza-numero: 12
+
+----
+
+Email: er@drag.com
+
+----
+
+Pec: 
+
+----
+
+Autoid: gr5ct5d5
