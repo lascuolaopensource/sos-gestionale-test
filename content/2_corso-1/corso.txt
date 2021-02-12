@@ -2,6 +2,30 @@ Title: Corso 1
 
 ----
 
+Titolo: Basic Generative Mastermind
+
+----
+
+Date-orari:
+
+- 
+  data_inizio: 2021-01-13
+  data_fine: ""
+  orario_inizio: ""
+  orario_fine: ""
+- 
+  data_inizio: 2021-01-16
+  data_fine: ""
+  orario_inizio: ""
+  orario_fine: ""
+- 
+  data_inizio: 2021-02-01
+  data_fine: 2021-02-17
+  orario_inizio: 12:10:00
+  orario_fine: 12:10:00
+
+----
+
 Ruoli:
 
 - 
@@ -16,13 +40,17 @@ Ruoli:
   persona:
     - utenti/mario-draghi
   ruolo: amministrazione
+- 
+  persona:
+    - utenti/giogianni-alletemaolo
+  ruolo: comunicazione
 
 ----
 
 Costi-persone:
 
 - 
-  persona: utenti/giogianni-alletemaolo
+  persona: "0"
   ore: 12
   costo_orario: 30
   viaggio_andata: 100
@@ -30,17 +58,24 @@ Costi-persone:
   numero_giorni: 3
   docente: ""
 - 
-  persona: utenti/mario-merolo
+  persona: "1"
   ore: 12
-  costo_orario: 20
+  costo_orario: 21
   viaggio_andata: 40
   viaggio_ritorno: 20
   numero_giorni: 3
   docente: ""
 - 
-  persona: utenti/mario-draghi
+  persona: "2"
   ore: 12
   costo_orario: 1
+  viaggio_andata: null
+  viaggio_ritorno: null
+  numero_giorni: null
+- 
+  persona: "3"
+  ore: null
+  costo_orario: null
   viaggio_andata: null
   viaggio_ritorno: null
   numero_giorni: null

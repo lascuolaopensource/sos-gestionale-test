@@ -1,0 +1,31 @@
+{
+  "name": "sos-gestionale-test",
+  "version": "1.0.0",
+  "description": "<img src=\"http://getkirby.com/assets/images/github/plainkit.jpg\" width=\"300\">",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lascuolaopensource/sos-gestionale-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lascuolaopensource/sos-gestionale-test/issues"
+  },
+  "homepage": "https://github.com/lascuolaopensource/sos-gestionale-test#readme",
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "npm-watch": "^0.7.0",
+    "postcss-import": "^14.0.0",
+    "tailwindcss": "^2.0.3"
+  },
+  "watch": {
+    "build:css": "sources/css/style.css"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:css": "postcss sources/css/style.css -o assets/css/style.css",
+    "watch": "npm-watch"
+  }
+}

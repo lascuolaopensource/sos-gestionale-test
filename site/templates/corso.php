@@ -1,12 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <?php snippet('corso_budget') ?>
-</body>
-</html>
+<?php snippet('header'); ?>
+
+<div>
+  <?php foreach( $page->costi_persone()->toStructure() as $budgetItem ): ?>
+    <div class="my-16">
+      <?php snippet('lettera_incarico', $budgetItem) ?>
+    </div>
+  <?php endforeach; ?>
+</div>
+
+<div class="">
+  <?php snippet('corso_budget'); ?>
+</div>
+
+<?php snippet('footer'); ?>

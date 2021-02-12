@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+
+.table__cell {
+  @apply border-solid border border-indigo-900 overflow-x-scroll py-1 px-3;
+}
+
+.lettera__field  {
+  @apply bg-gray-200 px-3 border-b border-black;
+}
+
+@tailwind utilities;

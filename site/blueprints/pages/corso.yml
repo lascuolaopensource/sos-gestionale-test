@@ -1,5 +1,6 @@
 title: Corso
 
 tabs:
+  info: tabs/corso_info
   ruoli: tabs/corso_ruoli
   budget: tabs/corso_budget

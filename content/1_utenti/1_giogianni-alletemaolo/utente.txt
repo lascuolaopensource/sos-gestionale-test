@@ -2,7 +2,7 @@ Title: Giogianni Alletemaolo
 
 ----
 
-Socio: true
+Socio: false
 
 ----
 

@@ -14,7 +14,7 @@ fields:
         query:
           fetch: page.ruoli.toStructure
           text: "{{ structureItem.persona.toPage.title }} – {{ structureItem.ruolo }}"
-          value: "{{ structureItem.persona.toPage }}"
+          value: "{{ structureItem }}"
       #
       ore:
         label: Ore

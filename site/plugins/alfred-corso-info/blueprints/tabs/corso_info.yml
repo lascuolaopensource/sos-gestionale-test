@@ -1,0 +1,30 @@
+label: Info
+
+fields:
+  #
+  titolo:
+    label: Titolo
+    type: text
+  #
+  date_orari:
+    label: Date e orari
+    type: structure
+    sortBy: data_inizio asc
+    help: Se l'evento è di una sola giornata, lascia "Data fine" vuoto
+    fields:
+      data_inizio:
+        label: Data inizio
+        type: date
+        width: 1/2
+      data_fine:
+        label: Data fine
+        type: date
+        width: 1/2
+      orario_inizio:
+        label: Orario inizio
+        type: time
+        width: 1/2
+      orario_fine:
+        label: Orario fine
+        type: time
+        width: 1/2
