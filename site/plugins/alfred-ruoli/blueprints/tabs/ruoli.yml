@@ -1,0 +1,42 @@
+label: Ruoli
+icon: users
+
+fields:
+  #
+  ruoli:
+    label: Ruoli
+    type: structure
+    fields:
+      #
+      persona:
+        label: Persona
+        width: 1/3
+        extends: fields/utente_select
+        max: 1
+      #
+      ruolo:
+        label: Figura
+        width: 1/3
+        type: select
+        options:
+          docente: Docente
+          tutor: Tutor
+          coordinatore: Coordinatore
+          esperto: Esperto
+          ricercatore: Ricercatore
+          consulente: Consulente
+          volontario: Volontario
+      #
+      attivita:
+        label: Ruolo
+        width: 1/3
+        type: select
+        options:
+          docenza: Docenza
+          tutoraggio: Tutoraggio
+          coordinamento: Coordinamento
+          comunicazione: Comunicazione
+          amministrazione: Amministrazione
+          ricerca: Ricerca
+          sviluppo: Sviluppo
+          elaborazione_dati: Elaborazione dati

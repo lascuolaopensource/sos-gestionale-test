@@ -1,0 +1,58 @@
+Title: Basic Generative Mastermind
+
+----
+
+Date-orari:
+
+- 
+  data: 2021-02-06
+  orario_inizio: ""
+  orario_fine: ""
+- 
+  data: 2021-02-21
+  orario_inizio: ""
+  orario_fine: ""
+- 
+  data: 2021-02-25
+  orario_inizio: ""
+  orario_fine: ""
+
+----
+
+Ruoli:
+
+- 
+  persona:
+    - utenti/giogianni-alletemaolo
+  ruolo: ricercatore
+  attivita: ricerca
+- 
+  persona:
+    - utenti/mario-merolo
+  ruolo: docente
+  attivita: docenza
+- 
+  persona:
+    - utenti/mario-draghi
+  ruolo: esperto
+  attivita: amministrazione
+
+----
+
+Costi-persone:
+
+- 
+  persona_ruolo: "0"
+  ore: 10
+  costo_orario: 30
+  persona: "0"
+- 
+  persona_ruolo: "1"
+  ore: 2
+  costo_orario: 20
+  persona: "1"
+- 
+  persona_ruolo: "2"
+  ore: 5
+  costo_orario: 5
+  persona: "2"

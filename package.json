@@ -17,15 +17,16 @@
   "dependencies": {
     "autoprefixer": "^10.2.4",
     "npm-watch": "^0.7.0",
+    "postcss-cli": "^8.3.1",
     "postcss-import": "^14.0.0",
     "tailwindcss": "^2.0.3"
-  },
-  "watch": {
-    "build:css": "sources/css/style.css"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:css": "postcss sources/css/style.css -o assets/css/style.css",
     "watch": "npm-watch"
+  },
+  "watch": {
+    "build:css": "sources/css/style.css"
   }
 }

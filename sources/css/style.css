@@ -9,4 +9,8 @@
   @apply bg-gray-200 px-3 border-b border-black;
 }
 
+.lettera > ul > li,
+.lettera > ol > li {
+}
+
 @tailwind utilities;

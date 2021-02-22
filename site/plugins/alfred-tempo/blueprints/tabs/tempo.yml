@@ -1,0 +1,22 @@
+label: Date e orari
+icon: clock
+
+fields:
+  #
+  date_orari:
+    label: Date e orari
+    type: structure
+    sortBy: data asc
+    fields:
+      data:
+        label: Data inizio
+        type: date
+        width: 1/3
+      orario_inizio:
+        label: Orario inizio
+        type: time
+        width: 1/3
+      orario_fine:
+        label: Orario fine
+        type: time
+        width: 1/3
